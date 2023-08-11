@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
+
 *{
     margin: 0;
     padding: 0;
@@ -51,7 +54,7 @@
 
 
 
-@import url("https://fonts.googleapis.com/css?family=Raleway");
+
 
 :root {
   --glow-color: hsl(186 100% 69%);
